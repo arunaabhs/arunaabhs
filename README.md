@@ -1,12 +1,9 @@
 <h1 align="center">Hi, I'm Arunaabh Shriyam</h1>
 <h3 align="center">A passionate Full Stack Developer from Jamshedpur, India</h3>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/arunaabh24">
     <img src="https://komarev.com/ghpvc/?username=arunaabh24&label=Profile%20views&color=0e75b6&style=flat" alt="arunaabh24" />
-  </a>
-  <a href="https://twitter.com/arunaabh_24">
-    <img src="https://img.shields.io/twitter/follow/arunaabh_24?logo=twitter&style=for-the-badge" alt="arunaabh_24" />
   </a>
 </p>
 
@@ -14,7 +11,6 @@
 - 👯 Looking to collaborate on **innovative Full Stack projects**
 - 💬 Ask me about **Web Development, JavaScript, or Python**
 - 📫 Reach me at **arunaabhs@gmail.com**
-- ⚡ Fun fact: I'm a coffee enthusiast ☕ and love coding late nights
 
 ---
 
