@@ -98,5 +98,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunaabh24&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunaabh24" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunaabhs&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunaabhs" />
 </p>
