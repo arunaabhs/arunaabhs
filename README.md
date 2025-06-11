@@ -26,6 +26,9 @@
   <a href="https://stackoverflow.com/users/30659812/arunaabh-shriyam" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arunaabh-shriyam" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/_arunaabh_s24/?hl=en" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_arunaabh_s24" height="30" width="40" />
+  </a>
 </p>
 
 ---
