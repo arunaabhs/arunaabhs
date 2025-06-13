@@ -92,5 +92,5 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunaabhs&show_icons=true&theme=radical)<br/>
-![GitHub Streak](https://streak-stats.demolab.com/?user=arunaabhs&theme=radical)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arunaabhs&theme=dark&hide_border=false)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arunaabhs&show_icons=true&locale=en&layout=compact&theme=radical)<br/>
