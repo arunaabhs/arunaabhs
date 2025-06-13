@@ -92,8 +92,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunaabhs&show_icons=true&theme=radical" alt="arunaabh" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunaabhs&theme=radical" alt="arunaabh" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunaabhs&show_icons=true&theme=radical" alt="arunaabhs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunaabhs&theme=radical" alt="arunaabhs" />
 </p>
 
 <p align="center">
